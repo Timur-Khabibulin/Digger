@@ -1,0 +1,17 @@
+D:\Documents\УРФУ\1 курс\Прога\Digger\bin\Debug\Images\Digger.png
+D:\Documents\УРФУ\1 курс\Прога\Digger\bin\Debug\Images\Gold.png
+D:\Documents\УРФУ\1 курс\Прога\Digger\bin\Debug\Images\Monster.png
+D:\Documents\УРФУ\1 курс\Прога\Digger\bin\Debug\Images\Sack.png
+D:\Documents\УРФУ\1 курс\Прога\Digger\bin\Debug\Images\Terrain.png
+D:\Documents\УРФУ\1 курс\Прога\Digger\bin\Debug\11-digger.exe.config
+D:\Documents\УРФУ\1 курс\Прога\Digger\bin\Debug\11-digger.exe
+D:\Documents\УРФУ\1 курс\Прога\Digger\bin\Debug\11-digger.pdb
+D:\Documents\УРФУ\1 курс\Прога\Digger\bin\Debug\nunit.framework.dll
+D:\Documents\УРФУ\1 курс\Прога\Digger\obj\Debug\Digger.csproj.AssemblyReference.cache
+D:\Documents\УРФУ\1 курс\Прога\Digger\obj\Debug\Digger.csproj.SuggestedBindingRedirects.cache
+D:\Documents\УРФУ\1 курс\Прога\Digger\obj\Debug\Digger.Properties.Resources.resources
+D:\Documents\УРФУ\1 курс\Прога\Digger\obj\Debug\Digger.csproj.GenerateResource.cache
+D:\Documents\УРФУ\1 курс\Прога\Digger\obj\Debug\Digger.csproj.CoreCompileInputs.cache
+D:\Documents\УРФУ\1 курс\Прога\Digger\obj\Debug\Digger.csproj.CopyComplete
+D:\Documents\УРФУ\1 курс\Прога\Digger\obj\Debug\11-digger.exe
+D:\Documents\УРФУ\1 курс\Прога\Digger\obj\Debug\11-digger.pdb
